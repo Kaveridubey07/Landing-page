@@ -104,6 +104,5 @@ This project helped in understanding:
 
 ---
 
-## ⭐ Support
-
-If you found this project useful, please consider giving it a ⭐ on GitHub.
+### ⭐ Support
+- If you found this project useful, please consider giving it a ⭐ on GitHub.
